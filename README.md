@@ -3,7 +3,7 @@
 ```js
 const ImDurqzno = {
    developer: "Minecraft" | "Discord.js",
-   works: [EcuaMine, FrozzMC, LunarCraft],
+   works: ["EcuaMine", "FrozzMC", "LunarCraft"],
    years: "14",
 }
 ```
