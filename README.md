@@ -3,7 +3,7 @@
 ```js
 const ImDurqzno = {
    developer: "Minecraft" | "Discord.js",
-   works: [NinjaStudios, StarConfigs],
+   works: [EcuaMine, FrozzMC, LunarCraft],
    years: "14",
 }
 ```
@@ -15,4 +15,4 @@ You can find me 🌎:
 - [Instagram](https://instagram.com/ilydurazno)
 
 
-**Buissnes**: ImDurqzno_#0001 (Discord) 
+**Buissnes**: ilyLale#0001 (Discord) 
