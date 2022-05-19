@@ -22,7 +22,7 @@ Hobbies: Play basketball and write stupid codes
 ### ⚔️ Languages and Tools
  ```yaml
  Java: true
- JavaScript: ture
+ JavaScript: true
  HTML: false #in progress
  CSS: false #in progress
  #Tools
