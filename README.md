@@ -29,6 +29,7 @@ Hobbies: Play basketball and write stupid codes
  MongoDB: true
  VSC: true
  Node.js: true
+ MySQL: true
  ```
  
 ### 👻 Random Things
