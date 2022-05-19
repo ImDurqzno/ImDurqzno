@@ -46,3 +46,4 @@ Hobbies: Play basketball and write stupid codes
  - 📷 [Instagram](https://instagram.com/Durqznohh)
  - ⭐ [Discord](Durqznohh#4718)
  
+ # That's it :D
