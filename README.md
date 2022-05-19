@@ -4,6 +4,7 @@
 System.out.println("Hello world 👋!")
 ```
 
+
 ```
 💫 Hi! I'm Durqznohh, welcome to my README file
 
@@ -18,7 +19,18 @@ Country: Ecuador
 Hobbies: Play basketball and write stupid codes
 #30 🏀
 ```
-
+### ⚔️ Languages and Tools
+ ```yaml
+ Java: true
+ JavaScript: ture
+ HTML: false #in progress
+ CSS: false #in progress
+ #Tools
+ MongoDB: true
+ VSC: true
+ Node.js: true
+ ```
+ 
 ### 👻 Random Things
 ```
    durqznohh.sendMessage("I like play the guitar");
